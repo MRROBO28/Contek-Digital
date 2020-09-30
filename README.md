@@ -4,9 +4,9 @@ Ini adalah script yang dapat menulis catatan anda dan membaca catatan yang dapat
 # Fitur
 <b>1.Menulis catatan\
 2.Membaca Catatan\
-3.menambahkan paragraf catatan
-4.Kalkulator
-5.Wikipedia
+3.menambahkan paragraf catatan\
+4.Kalkulator\
+5.Wikipedia\
 6.Go To Google
 
 # Penggunaan
