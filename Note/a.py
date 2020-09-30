@@ -1,1 +1,0 @@
-print("Jangan Recode ya...")
